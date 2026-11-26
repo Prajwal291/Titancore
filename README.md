@@ -384,12 +384,12 @@ Potential future improvements include:
 
 Built with teamwork, innovation, and a shared goal of solving real-world agricultural challenges.
 
-| Team Member | Role |
-|---|---|
-| **Prajwal L** | @Prajwal291 |
-| **Hemanth** | @hemanth1127-code |
-| **Siddesh** | @siddeshga2501-svg |
-| **Chethan** | @chetha1519 |
+## 👥 Team TitanCore
+
+- [@Prajwal291](https://github.com/Prajwal291)
+- [@hemanth1127-code](https://github.com/hemanth1127-code)
+- [@siddeshga2501-svg](https://github.com/siddeshga2501-svg)
+- [@chetha1519](https://github.com/chetha1519)
 
 ---
 
