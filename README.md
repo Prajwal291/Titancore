@@ -386,10 +386,10 @@ Built with teamwork, innovation, and a shared goal of solving real-world agricul
 
 | Team Member | Role |
 |---|---|
-| **Prajwal L** | Database, Integration & Project Coordination |
-| **Hemanth** | Backend Development |
-| **Siddesh** | Frontend Development |
-| **Chethan** | Features, Testing & Quality Assurance |
+| **Prajwal L** | @Prajwal291 |
+| **Hemanth** | @hemanth1127-code |
+| **Siddesh** | @siddeshga2501-svg |
+| **Chethan** | @chetha1519 |
 
 ---
 
